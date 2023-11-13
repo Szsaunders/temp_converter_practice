@@ -1,0 +1,2 @@
+C:\Users\szsau\source\repos\tempconverter2\tempconverter2\obj\Debug\tempconverter2.esproj.SuggestedBindingRedirects.cache
+C:\Users\szsau\source\repos\tempconverter2\tempconverter2\obj\Debug\tempconverter2.esproj.CoreCompileInputs.cache
